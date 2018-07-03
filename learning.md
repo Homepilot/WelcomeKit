@@ -3,10 +3,11 @@
   <br>
 </h1>
 
+
+
 # Useful ressources for learning
 
----
-# Generality
+## Generality
 1. https://egghead.io/courses/understand-the-basics-of-http
 2. https://www.codecademy.com/articles/what-is-crud
 3. https://howdns.works
@@ -27,7 +28,7 @@
 ## Other
 1. https://www.prettyawesomelists.com
 
-## Sources:
+## Sources
 * https://putaindecode.io
 * https://egghead.io/
 * https://scotch.io/

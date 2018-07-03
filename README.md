@@ -3,8 +3,7 @@
   <br>
 </h1>
 
+
+
 # WelcomeKit :heart: :heart:
-
----
-
 :beginner: [Useful ressources for learning](https://github.com/Homepilot/WelcomeKit/blob/master/learning.md)
