@@ -1,5 +1,12 @@
-## Géneralités
+<h1 align="center">
+  <img src="https://bit.ly/2JI8ivt" alt="logo" width="200px">
+  <br>
+</h1>
 
+# Useful ressources for learning
+
+---
+# Generality
 1. https://egghead.io/courses/understand-the-basics-of-http
 2. https://www.codecademy.com/articles/what-is-crud
 3. https://howdns.works
@@ -19,3 +26,14 @@
 
 ## Other
 1. https://www.prettyawesomelists.com
+
+## Sources:
+* https://putaindecode.io
+* https://egghead.io/
+* https://scotch.io/
+* https://medium.com/
+* https://quora.com/
+
+## Training
+* https://www.codewars.com/
+* https://exercism.io/
