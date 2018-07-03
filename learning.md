@@ -26,7 +26,7 @@
 * https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference
 
 ## Other
-1. https://www.prettyawesomelists.com
+* https://www.prettyawesomelists.com
 
 ## Sources
 * https://putaindecode.io
@@ -34,7 +34,8 @@
 * https://scotch.io/
 * https://medium.com/
 * https://quora.com/
+* https://www.reddit.com/r/learnjavascript/
 
 ## Training
 * https://www.codewars.com/
-* https://exercism.io/
+* http://exercism.io/
