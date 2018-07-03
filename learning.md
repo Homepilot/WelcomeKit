@@ -1,0 +1,21 @@
+## Géneralités
+
+1. https://egghead.io/courses/understand-the-basics-of-http
+2. https://www.codecademy.com/articles/what-is-crud
+3. https://howdns.works
+
+## Javascript
+1. https://www.grafikart.fr/formations/debuter-javascript/ecmascript-2015
+2. https://github.com/lukehoban/es6features#readme
+3. https://github.com/DrkSephy/es6-cheatsheet
+
+## Node
+1. https://www.grafikart.fr/formations/nodejs
+2. https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4
+
+## Go further
+* https://github.com/Kadaaran/useful-website-pool/blob/master/README.md
+* https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference
+
+## Other
+1. https://www.prettyawesomelists.com
