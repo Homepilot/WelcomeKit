@@ -35,6 +35,7 @@
 * https://medium.com/
 * https://quora.com/
 * https://www.reddit.com/r/learnjavascript/
+* https://legacy.gitbook.com/explore/topic/javascript?sort=top&lang=en
 
 ## Training
 * https://www.codewars.com/
